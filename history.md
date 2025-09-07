@@ -1,5 +1,11 @@
 # 変更履歴
 
+## 2025年9月7日
+- プロジェクトフォルダをGitリポジトリとして初期化
+- list.mdのチェック済み項目（[x]）をすべて未チェック（[ ]）に初期化
+- GitHubリポジトリ「been-saga-done-that」を作成
+- 初期コミットとプッシュを実行
+
 ## 2025 年 8 月 2 日
 
 - ユーザーレベルの `settings.json` にグローバルタスク「open BeenSagaDoneThat workspace」を追加
