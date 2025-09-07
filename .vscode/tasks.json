@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "open BeenSagaDoneThat workspace",
+      "type": "shell",
+      "command": "code",
+      "args": [
+        "C:\\Users\\shimbo\\Dropbox\\prj_been-saga-done-that\\prj_been-saga-done-that.code-workspace"
+      ],
+      "group": "build"
+    }
+  ]
+}
